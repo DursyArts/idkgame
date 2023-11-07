@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sexRP", "sexRP\sexRP.csproj", "{C9DC5D39-F7E3-43C1-845D-0032F9555EFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9DC5D39-F7E3-43C1-845D-0032F9555EFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9DC5D39-F7E3-43C1-845D-0032F9555EFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9DC5D39-F7E3-43C1-845D-0032F9555EFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9DC5D39-F7E3-43C1-845D-0032F9555EFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B739EF8-6C24-4EA6-88D3-962221C2DE61}
+	EndGlobalSection
+EndGlobal
